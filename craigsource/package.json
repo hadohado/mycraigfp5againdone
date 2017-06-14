@@ -1,0 +1,14 @@
+{
+  "name": "craigsource",
+  "version": "1.0.0",
+  "description": "source code for craig server",
+  "main": "lib/craigsource.js",
+  "scripts": {
+    "test": "node ./test/craigsource.js"
+  },
+  "keywords": [
+    "craig"
+  ],
+  "author": "henry",
+  "license": "ISC"
+}

@@ -1,0 +1,10 @@
+app.post('/register', function (req, res) {
+app.post('/postcontactlistselective', function (req, res) {
+app.post('/loginServer', function (req, res) {
+app.post('/newpost2', function (req, res) {
+app.get('/contactlist', function(req, res) {
+app.get('/loginList', function(req, res) {
+app.post('/registernewpost2', function (req, res) {
+app.get('/contactlistselective', function(req, res) {
+app.post('/editpost', function (req, res) {
+app.post('/editpostdelete', function (req, res) {
